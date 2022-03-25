@@ -1,7 +1,5 @@
 # Vildan Khissamutdinov
 
-***
-
 ### Contacts:
 
 * Discord: @welldonemort
