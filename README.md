@@ -1,3 +1,3 @@
 # rsschool-cv
 
-### Link to CV: https://welldonemort.github.io/rsschool-cv/cv
+### Click [here](https://welldonemort.github.io/rsschool-cv/cv) to check my CV!

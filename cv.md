@@ -26,20 +26,20 @@ developer!
 
 ### Code examples:
 
-1. Codewars: https://www.codewars.com/users/welldonemort
+1. [Codewars profile](https://www.codewars.com/users/welldonemort)
 2. Commercial development (Vue 2/3):
-+ ADATA (Avrora Holding): https://adata.kz/
-+ Spark Logistics (SP): https://spark.kz/
-+ Mobile App Spark: https://myapp.spark.kz/
-+ Admin Panel Spark: https://bpms.spark.kz/
++ [ADATA (Avrora Holding)](https://adata.kz/)
++ [Spark Logistics (SP)](https://spark.kz/)
++ [Mobile App Spark](https://myapp.spark.kz/)
++ [Admin Panel Spark](https://bpms.spark.kz/)
 3. Pet projects:
-+ Kanban-board, React (2021): https://github.com/welldonemort/kanban-board
-+ Landing page (2021): https://welldonemort.github.io/slider/
++ [Kanban-board, React (2021)](https://github.com/welldonemort/kanban-board)
++ [Landing page (2021)](https://welldonemort.github.io/slider/)
 5. Freelance (2021):
-+ Code example №1 - https://welldonemort.github.io/kwork1/
-+ Code example №2 - https://welldonemort.github.io/cats/
-+ Code example №3 - https://welldonemort.github.io/venom-2/
-+ Code example №4 - https://lazadapost.com/
++ [Code example №1](https://welldonemort.github.io/kwork1/)
++ [Code example №2](https://welldonemort.github.io/cats/)
++ [Code example №3](https://welldonemort.github.io/venom-2/)
++ [Code example №4](https://lazadapost.com/)
 
 ### Work experince:
 
@@ -47,30 +47,31 @@ developer!
 + aug 2021 - jan 2022 (6 months)
 + Software engineer
 + Vue2, Nuxt
-+ https://adata.kz/
++ [ADATA (Avrora Holding)](https://adata.kz/)
 2. **SPARK Logistics**
-+ feb 2022 - until now (> 2 months)
++ feb 2022 - ...
 + Web developer
 + Vue3, Typescript
-+ https://spark.kz/
++ [Spark Logistics (SP)](https://spark.kz/)
 
 ### Education:
 
-1. **Lyceum №134**
-+ 2005 - 2016
-+ Faculty of Mathematics and Economics
-+ Almaty
-2. **JavaRush**
-+ 2020
-+ JAVA
-3. **KolesaGroup**
-+ 2020
-+ Android apps development (Kotlin)
-+ Almaty, online
-4. **SkillFactory (Sber IT School)**
+1. **SkillFactory (Sber IT School)**
 + feb 2021 - jul 2021
 + Frontend development
 + Almaty, online
++ [View my certificate](https://drive.google.com/file/d/11-FXkWWEJJ1CqNsDkUQaXHjWNNkHTNiv/view)
+2. **KolesaGroup**
++ 2020
++ Android apps development (Kotlin)
++ Almaty, online
+3. **JavaRush**
++ 2020
++ JAVA
+4. **Lyceum №134**
++ 2005 - 2016
++ Faculty of Mathematics and Economics
++ Almaty
 
 ### English language:
 
